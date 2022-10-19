@@ -1,3 +1,4 @@
+![Captura desde 2022-10-19 19-19-49](https://user-images.githubusercontent.com/64230830/196815531-ab5a5ddb-6676-4a0f-b717-9c788fc56dc5.png)
 # Moneda
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
