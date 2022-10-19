@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background: linear-gradient(rgba(0, 0, 0, 0.489),rgba(0, 0, 0, 0.499)),url("./assets/euro.jpg");
+    /* background-image: ); */
+    background-position: center;
+    
+}
